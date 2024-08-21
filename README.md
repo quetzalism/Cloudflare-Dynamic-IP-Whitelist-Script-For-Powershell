@@ -51,7 +51,7 @@ The script automatically creates a `last_ip.json` file in the same directory to 
    Execute the PowerShell script to check your current IP and update the Cloudflare whitelist accordingly:
 
    ```powershell
-   .pp.ps1
+   ./app.ps1
    ```
 
 2. **Automate the Script**
