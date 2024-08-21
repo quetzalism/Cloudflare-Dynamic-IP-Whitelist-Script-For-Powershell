@@ -72,6 +72,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Feel free to submit issues or pull requests if you have suggestions or improvements.
 
-## Contact
+## Tips
+https://paypal.me/Evpj
 
-For questions or support, please reach out via [GitHub Issues](https://github.com/yourusername/your-repo-name/issues).
