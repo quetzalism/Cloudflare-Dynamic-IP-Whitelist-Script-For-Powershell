@@ -128,5 +128,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 Feel free to submit issues or pull requests if you have suggestions or improvements.
 
-## Tips
+## Did this help you? Tips Appreciated!
 https://paypal.me/Evpj
