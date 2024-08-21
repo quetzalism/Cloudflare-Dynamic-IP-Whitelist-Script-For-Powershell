@@ -21,7 +21,7 @@ This PowerShell script dynamically updates the Cloudflare firewall to whitelist 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+https://github.com/quetzalism/Cloudflare-Dynamic-IP-Whitelist-Script-For-Powershell
 ```
 
 ### 2. Create a `creds.json` File
